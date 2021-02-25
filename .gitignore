@@ -1,0 +1,6 @@
+# Папка среды программирования
+.idea
+# Конфиг
+includes/config.php
+# Логи
+.logs/*.log
