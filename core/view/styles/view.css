@@ -1,0 +1,83 @@
+@import url(//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css);
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700");
+/*.c-sidebar {
+  color: $grey;
+  background-color: $grey2;
+}
+
+.c-sidebar>ul>li>a {
+  color: $grey;
+}
+
+body {
+  background-color: white;
+}
+
+.c-sidebar>ul>li:hover {
+  background-color: $grey;
+}
+
+.c-sidebar>ul>li>a:hover {
+  color: $white;
+}
+
+.c-sidebar.is-minimized .c-sidebar__item {
+  border-bottom: none;
+}
+
+.c-sidebar__link.is-active {
+  background-color: #1d2531;
+  -webkit-box-shadow: inset 3px 0 0 0 $orange;
+  box-shadow: inset 3px 0 0 0 $orange;
+  color: $white;
+}
+
+.c-navbar {
+  background-color: $grey2;
+  @media (min-width: 992px) {
+    display: none;
+  }
+}
+
+.c-sidebar>ul.logout {
+  position:absolute;
+  left:0;
+  bottom:0;
+}
+
+.c-sidebar>ul.logout>li:hover {
+  width: 250px;
+  @media (max-width: 992px) {
+    width: 300px;
+  }
+}
+
+.c-sidebar > ul > li > a {
+  color: $white;
+}
+
+.c-sidebar__item.is-open {
+  box-shadow: inset 3px 0 0 0 $white;
+}
+
+.o-page__content {
+  padding: 15px;
+}
+
+.dataTables_wrapper .dataTables_filter {
+  float: right;
+  width: 350px;
+}
+
+.dataTables_wrapper .dataTables_length {
+  float: left;
+}
+
+.c-modal__close--absolute {
+  position: absolute;
+  top: 0.875rem;
+  right: 0.875rem;
+  z-index: 500;
+}*/
+
+/*# sourceMappingURL=view.css.map */
