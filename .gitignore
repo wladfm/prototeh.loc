@@ -3,4 +3,4 @@
 # Конфиг
 includes/config.php
 # Логи
-.logs/*.log
+logs/*.log
