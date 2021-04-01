@@ -6,8 +6,6 @@ class pages_list implements core_view_body
         $contacts = entity_contacts::all();
         $chosenIds = entity_chosens::getListIdChosensByUser();
 
-        echo '<h3>HHHHHHHHHHHHHHHHHHH</h3>';
-
         echo '<div class="c-table-responsive@desktop">';
         echo '<table class="c-table" id="tableContacts">';
         echo '<thead class="c-table__head c-table__head--slim">';
